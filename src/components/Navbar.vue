@@ -78,7 +78,7 @@ button {
   margin: 0 0 0 -10%;
 }
 .links a {
-  font-size: 1.1em;
+  font-size: 1.3em;
   margin: 10px;
 }
 input[type="text"] {
@@ -121,25 +121,25 @@ input[type="text"]:focus {
     font-size: 0.8em;
   }
   #srch{
-    width: 30%;
+    width: 50%;
   }
   input[type="text"] {
     height: 30px;
     width: 70%;
     padding: 7px 10px;
-    font-size: 0.9em;
+    font-size: 0.76em;
   }
   .btn {
-   height: 30px;
-  float: left;
-  width: 15%;
-  padding: 7px;
-  color: white;
-  font-size: 14px;
+    height: 30px;
+    float: left;
+    width: 15%;
+    padding: 7px;
+    color: white;
+    font-size: 14px;
 }
   .links a {
-    font-size: 1em;
-    margin: 4px;
+    font-size: 1.3em;
+     margin: 4px;
   }
 }
 </style>
