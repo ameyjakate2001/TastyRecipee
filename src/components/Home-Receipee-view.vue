@@ -75,7 +75,14 @@ img {
   height: 250px;
 }
 button{
-  padding: 3px;
+  color: white;
+    border: none;
+    outline: none;
+    background: tomato;
+    padding: 5px;
   margin-top: 4px;
+}
+button:hover{
+   opacity: 0.8;
 }
 </style>
