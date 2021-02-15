@@ -9,7 +9,6 @@
 
     <div class="links">
       <router-link to="/" exact>Home</router-link>
-      <router-link to="/add" exact>Add Recipe</router-link>
     </div>
   </div>
   </keep-alive>
